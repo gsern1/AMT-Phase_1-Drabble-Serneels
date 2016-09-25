@@ -13,3 +13,7 @@ Assuming that you have installed **docker** and **docker-compose** on your machi
 cd topology-amt
 docker-compose up --build
 ```
+
+## Access the webapp
+
+To access the webapp you must follow this link http://127.0.0.1:8080/AMT-Webapp-Welcome-1.0-SNAPSHOT/ or http://192.168.99.100:8080/AMT-Webapp-Welcome-1.0-SNAPSHOT/ depending on which version of docker you use.
